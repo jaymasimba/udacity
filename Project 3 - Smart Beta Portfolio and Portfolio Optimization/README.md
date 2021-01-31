@@ -1,0 +1,3 @@
+#### Project 3: Smart Beta and Portfolio Optimization
+
+This project builds a smart beta portfolio and compare it to a benchmark index. We also calculate the tracking error against the index to evaluate its performance and eventually build a portfolio using quadratic programming to optimize the weights and then rebalance the portfolio calculating the turnover. We used the end of day data from Quotemedia for the dataset
